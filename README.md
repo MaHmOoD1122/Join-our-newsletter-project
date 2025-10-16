@@ -7,4 +7,4 @@ I made this project based on challenge on devchallenges named 'Join Our Newslett
 - Flexbox
 
 ## Link of the project
-https://mahmood1122.github.io/Join-our-newsletter-project/
+https://mahmood1122.github.io/Newsletter-project/
